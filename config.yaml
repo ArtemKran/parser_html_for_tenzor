@@ -1,0 +1,7 @@
+## config.yaml
+
+#Proxy
+PROXY: False
+HTTP_PROXY: ""
+HTTPS_PROXY: ""
+FTP_PROXY: ""
